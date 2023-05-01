@@ -1,0 +1,15 @@
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.csproj.AssemblyReference.cache
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.AssemblyInfo.cs
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\bin\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.exe
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\bin\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.deps.json
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\bin\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.runtimeconfig.json
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\bin\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.dll
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\bin\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.pdb
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.dll
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\refint\ExampleProjStructuralDesignDecoratorPattern.dll
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.pdb
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ExampleProjStructuralDesignDecoratorPattern.genruntimeconfig.cache
+C:\Users\bmich\Source\Repos\ExampleProjStructuralDesignDecoratorPattern\obj\Debug\net7.0\ref\ExampleProjStructuralDesignDecoratorPattern.dll
