@@ -8,7 +8,6 @@
         {
             string Type { get; }
             double Price { get; }
-
         }
 
         public class Car : ICar
